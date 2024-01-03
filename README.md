@@ -1,5 +1,5 @@
 <h2>Hey there, human <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" width="50" /></h2>
-<h3>I am Paulo Ricardo Severo, a front-end engineer with over 13 years of experience <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60" /></h3>
+<h3>I am Paulo Ricardo Severo, a front-end engineer with over 13 years of experience <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60" align="top" /></h3>
  
 - 👨‍💻 I'm currently working on [a web3 project](https://github.com/prsevero/ethers.js)  
   
@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" align="center" />
 </p>  
 
-<h6>&nbsp;</h6>
 <h4>🔗 Connect with me:</h4> 
 <p> 
 <a href="https://prsevero.com.br" target="blank"><img align="center" src="https://img.shields.io/badge/website-black.svg?&style=for-the-badge&logo=alchemy&logoColor=white" alt="prsevero website" /></a>  
