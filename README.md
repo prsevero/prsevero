@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" title="AngularJS" width="40" align="center" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="NextJS" width="40" align="center" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" align="center" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="bootstrap" width="40" align="center" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" align="center" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind" width="40" align="center" />
   <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" title="Apache Cordova" width="40" align="center" />
   <img src="https://ethers.org/static/logo.png" alt="ethers.js" title="Ethers.JS" width="40" align="center" />
