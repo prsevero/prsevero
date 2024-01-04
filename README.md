@@ -7,7 +7,7 @@
   
 - ✨ More info and some of my projects are available at [prsevero.com.br](https://prsevero.com.br)  
   
-- 📃 Know about my experiences [https://linkedin.com/in/prsevero](https://linkedin.com/in/prsevero)  
+- 📃 Know more about my experiences: [linkedin.com/in/prsevero](https://linkedin.com/in/prsevero)
   
 - 🤪 Fun fact: people usually say that I look very serious, but I'm not at all 😁
 
