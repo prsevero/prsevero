@@ -1,5 +1,5 @@
 <h2>Hey there, human (?) <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" width="50" /></h2>
-<h3>I am Paulo Ricardo Severo, a front-end engineer with over 14 years of experience, including more than 9 years in remote environments <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60" align="middle" /></h3>
+<h3>I'm a front-end engineer with +14 years of experience, including 9+ years remotely <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="60" align="middle" /></h3>
  
 - 👨‍💻 I'm currently working on [a web3 project](https://github.com/prsevero/ethers.js)  
   
